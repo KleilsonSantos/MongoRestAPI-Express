@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KleilsonSantos/Owner-avatar-MongoRestAPI-Express.git"
+    "url": "git+https://github.com/KleilsonSantos/Mongo-RestFull-API.git"
   },
   "keywords": [
     "MongoRestAPI",
@@ -39,11 +39,11 @@
     "Mongoose"
   ],
   "author": "Kleilson Santos",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KleilsonSantos/Owner-avatar-MongoRestAPI-Express/issues"
+    "url": "https://github.com/KleilsonSantos/Mongo-RestFull-API/issues"
   },
-  "homepage": "https://github.com/KleilsonSantos/Owner-avatar-MongoRestAPI-Express#readme",
+  "homepage": "https://github.com/KleilsonSantos/Mongo-RestFull-API#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "browserify-zlib": "^0.2.0",

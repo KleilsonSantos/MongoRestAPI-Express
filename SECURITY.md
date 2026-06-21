@@ -1,21 +1,20 @@
 # Security Policy
 
-## Supported Versions
+## Versões suportadas
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+| Versão | Suporte |
+|--------|---------|
+| 1.4.x  | Sim     |
+| 1.x    | Melhor esforço |
+| < 1.0  | Não     |
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+## Reportar vulnerabilidade
 
-## Reporting a Vulnerability
+**Não** abra issue pública para falhas de segurança.
 
-Use this section to tell people how to report a vulnerability.
+1. Envie e-mail para **kleilson@icloud.com** com assunto `[SECURITY] Mongo-RestFull-API`
+2. Inclua: descrição, passos para reproduzir, impacto estimado, versão/commit afetado
+3. Prazo de resposta inicial: **5 dias úteis**
+4. Correções críticas: patch em branch `fix/security-*` + release patch SemVer
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Agradecemos disclosure responsável.
